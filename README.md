@@ -2,12 +2,10 @@
 
 doubly linked list using C
 
-Compile:
 
-  $ make all
-  
-  
-  
- Usage:
- 
-  $ ./list
+Compile:	
+	
+	$ make all
+Usage:	
+	
+	$ ./list
